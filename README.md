@@ -1,2 +1,2 @@
-# aoc-2020-golang
-* AOC 2020 With Golang
+# aoc-2020
+* Problem solutions using Go
